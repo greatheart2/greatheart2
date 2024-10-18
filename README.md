@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @greatheart2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##Got a problem or question with the API?
 
-<!---
-greatheart2/greatheart2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Please create a ticket with details of the problem, for a faster response
+please include:
+
+* What you did 
+* What happened (don't forget the full error message if applicable)
+* What you expected to happen
+* Reproduction steps if applicable
